@@ -1,0 +1,37 @@
+
+@model IEnumerable<Cliente>
+
+    <div class="row">
+        
+        <div class="col-md-6 offset-4">
+            <h1 class="center">Credito Cliente</h1>
+        </div>
+        <form asp-action="Credito" asp-controller="Clientes" method="post">
+            <input name="dni" id="dni" class="form-control" type="text" value>
+            <input name="dniID" id="dniID" class="btn btn-primary" type="button" value="submit">
+
+        </form>
+    </div>
+        <div class="row">
+            <div class="col-md-6 offset-4">
+                <h3>
+                Cantidad de creditos activos
+                @ViewData["creditos"]
+                </h3>
+                <h3>
+                La consulta es valida?
+                @ViewData["esValida"]
+
+                </h3>
+                <h3>
+                Tiene deudas?
+                @ViewData["tieneDeudas"]
+
+                </h3>
+                <h3>
+                Show
+                @ViewData["error"]
+                    
+                </h3>
+        </div>
+    </div>

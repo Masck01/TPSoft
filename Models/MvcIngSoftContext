@@ -1,0 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+
+namespace Ingenieria_de_Software.Models
+{
+    public class MvcIngSoftContext : DbContext
+    {
+        public MvcIngSoftContext(DbContextOptions<MvcIngSoftContext> options) : base(options)
+        {
+        }
+            public DbSet<Empleado> Empleado { get; set; }
+
+    }
+}

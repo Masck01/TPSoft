@@ -1,0 +1,72 @@
+C:\Users\drean\Documents\Ingenieria de Software\bin\Debug\netcoreapp2.2\Ingenieria de Software.deps.json
+C:\Users\drean\Documents\Ingenieria de Software\bin\Debug\netcoreapp2.2\Ingenieria de Software.runtimeconfig.json
+C:\Users\drean\Documents\Ingenieria de Software\bin\Debug\netcoreapp2.2\Ingenieria de Software.runtimeconfig.dev.json
+C:\Users\drean\Documents\Ingenieria de Software\bin\Debug\netcoreapp2.2\Ingenieria de Software.dll
+C:\Users\drean\Documents\Ingenieria de Software\bin\Debug\netcoreapp2.2\Ingenieria de Software.pdb
+C:\Users\drean\Documents\Ingenieria de Software\bin\Debug\netcoreapp2.2\Ingenieria de Software.Views.dll
+C:\Users\drean\Documents\Ingenieria de Software\bin\Debug\netcoreapp2.2\Ingenieria de Software.Views.pdb
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Ingenieria de Software.csprojAssemblyReference.cache
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Ingenieria de Software.csproj.CoreCompileInputs.cache
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Ingenieria de Software.RazorAssemblyInfo.cache
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Ingenieria de Software.RazorAssemblyInfo.cs
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Ingenieria de Software.AssemblyInfoInputs.cache
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Ingenieria de Software.AssemblyInfo.cs
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Ingenieria de Software.TagHelpers.input.cache
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Ingenieria de Software.TagHelpers.output.cache
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Ingenieria de Software.RazorCoreGenerate.cache
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Ingenieria de Software.RazorTargetAssemblyInfo.cache
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Ingenieria de Software.RazorTargetAssemblyInfo.cs
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Ingenieria de Software.Views.pdb
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Ingenieria de Software.dll
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Ingenieria de Software.pdb
+C:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Ingenieria de Software.csproj.CopyComplete
+c:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\Index.g.cshtml.cs
+c:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Razor\Views\Empleado\Create.g.cshtml.cs
+c:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Razor\Views\Empleado\Delete.g.cshtml.cs
+c:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Razor\Views\Empleado\Details.g.cshtml.cs
+c:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Razor\Views\Empleado\Edit.g.cshtml.cs
+c:\Users\drean\Documents\Ingenieria de Software\obj\Debug\netcoreapp2.2\Razor\Views\Empleado\Index.g.cshtml.cs
+C:\Users\drean\Documents\Ingenieria de Software\TP 1\bin\Debug\netcoreapp2.2\Ingenieria de Software.deps.json
+C:\Users\drean\Documents\Ingenieria de Software\TP 1\bin\Debug\netcoreapp2.2\Ingenieria de Software.runtimeconfig.json
+C:\Users\drean\Documents\Ingenieria de Software\TP 1\bin\Debug\netcoreapp2.2\Ingenieria de Software.runtimeconfig.dev.json
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\bin\Debug\netcoreapp2.2\Ingenieria de Software.dll
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\bin\Debug\netcoreapp2.2\Ingenieria de Software.pdb
+C:\Users\drean\Documents\Ingenieria de Software\TP 1\bin\Debug\netcoreapp2.2\Ingenieria de Software.Views.dll
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\bin\Debug\netcoreapp2.2\Ingenieria de Software.Views.pdb
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Ingenieria de Software.csprojAssemblyReference.cache
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Ingenieria de Software.csproj.CoreCompileInputs.cache
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Ingenieria de Software.RazorAssemblyInfo.cache
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Ingenieria de Software.RazorAssemblyInfo.cs
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Ingenieria de Software.AssemblyInfoInputs.cache
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Ingenieria de Software.AssemblyInfo.cs
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Ingenieria de Software.TagHelpers.input.cache
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Ingenieria de Software.TagHelpers.output.cache
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Ingenieria de Software.RazorCoreGenerate.cache
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Ingenieria de Software.RazorTargetAssemblyInfo.cache
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Ingenieria de Software.RazorTargetAssemblyInfo.cs
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Ingenieria de Software.Views.pdb
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Ingenieria de Software.dll
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Ingenieria de Software.pdb
+C:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Ingenieria de Software.csproj.CopyComplete
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Razor\Views\Clientes\Create.g.cshtml.cs
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Razor\Views\Clientes\Delete.g.cshtml.cs
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Razor\Views\Clientes\Details.g.cshtml.cs
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Razor\Views\Clientes\Edit.g.cshtml.cs
+c:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Razor\Views\Clientes\Index.g.cshtml.cs
+C:\Users\drean\Documents\Ingenieria de Software\TP 1\obj\Debug\netcoreapp2.2\Razor\Views\Clientes\Credito.g.cshtml.cs
